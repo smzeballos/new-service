@@ -1,4 +1,4 @@
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=social-chat&metric=alert_status)](https://sonarcloud.io/dashboard?id=social-chat)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=smzeballos_new-service&metric=alert_status)](https://sonarcloud.io/dashboard?id=smzeballos_new-service)
 # New service
 
 
